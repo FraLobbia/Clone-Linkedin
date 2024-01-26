@@ -1,0 +1,8 @@
+{
+	"short_name": "LinkedIn Clone",
+	"name": "LinkedIn Clone - Build Week 3",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
